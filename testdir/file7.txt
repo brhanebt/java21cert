@@ -1,0 +1,22 @@
+Managing Concurrent Code Execution
+
+Create both platform and virtual threads. Use both Runnable and Callable objects, manage the thread lifecycle, and use different Executor services and concurrent API to run tasks.
+Develop thread-safe code, using locking mechanisms and concurrent API.
+Process Java collections concurrently and utilize parallel streams.
+Using Java I/O API
+
+Read and write console and file data using I/O streams.
+Serialize and de-serialize Java objects.
+Construct, traverse, create, read, and write Path objects and their properties using the java.nio.file API.
+New Line 1
+New Line 2
+Managing Concurrent Code Execution
+
+Create both platform and virtual threads. Use both Runnable and Callable objects, manage the thread lifecycle, and use different Executor services and concurrent API to run tasks.
+Develop thread-safe code, using locking mechanisms and concurrent API.
+Process Java collections concurrently and utilize parallel streams.
+Using Java I/O API
+
+Read and write console and file data using I/O streams.
+Serialize and de-serialize Java objects.
+Construct, traverse, create, read, and write Path objects and their properties using the java.nio.file API.
