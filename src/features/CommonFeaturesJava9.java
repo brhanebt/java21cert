@@ -1,4 +1,4 @@
-package features.nine;
+package features;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.Map;
 
-interface IO{
+interface IOI{
 	private void print() {
 		System.out.println("This is from a private interface method!");
 	}
